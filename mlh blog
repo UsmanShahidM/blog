@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <script src="script.js"></script>
+    <h1>MLH: Major League Hacking </h1>
+
+    <p>Its my first time participating in a hackathon and its been pretty awesome. The workshop timings makes schedule a bit uncomfortable but its fun to attend them and worth the time invested. I for real am learning alot and got an exposure to the vast types of things I can do other than taking lectures from university all day. </p>
+      <p1>If you want a change of pace and some free tutorials with lots of valuable information this is the best place.</p1>
+      <p2>
+      The community is pretty welcoming and easy to talk with so its pretty easy for anyone to blend in with.  </p2>
+  </body>
+</html>
